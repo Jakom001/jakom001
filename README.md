@@ -1,6 +1,6 @@
 # Hi, I'm [Andrew Peter](https://omoshdigital.netlify.app/)👋
 # 💫 About Me:
-❤ I'm a Data Scientist.<br>🤞 I'm a Data Analyst.<br>✔ I'm currently working on my skills.<br>😉 I'm Currently learning more about Machine Learning.<br>🙌 I'm a Django website developer.<br>😜Fun fact: I love automating boring stuff with python.<br>📨Reach me by Email: petremosh85@gmail.com
+❤ I'm a Data Scientist.<br>🤞 I'm a Python Backend Developer.<br>✔ I'm currently working on my skills.<br>😉 I'm Currently learning more about Machine Learning.<br>🙌 I'm a Django website developer.<br>😜Fun fact: I love automating boring stuff with python.<br>📨Reach me by Email: petremosh85@gmail.com
 
 
 ## 🌐 Socials:
