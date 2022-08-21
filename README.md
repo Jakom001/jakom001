@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/mJZYvKt)](https://omoshdigital.netlify.app/)
+[![MasterHead](https://techgenix.com/tgwordpress/wp-content/uploads/2018/08/full-stack-developer-Shutterstock.jpg)](https://omoshdigital.netlify.app/)
 # <h1 align="center">Hi, I'm [Andrew Peter](https://omoshdigital.netlify.app/)👋</h1>
 <img align="right" alt="coding" width="230" height="250" src="https://www.shareicon.net/data/128x128/2016/01/24/708382_people_512x512.png">
 # 💫 About Me:
