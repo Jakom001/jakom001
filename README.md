@@ -2,7 +2,7 @@
 # <h1 align="center">Hi, I'm [Andrew Peter](https://omoshdigital.netlify.app/)👋</h1>
 <img align="right" alt="coding" width="230" height="250" src="https://www.shareicon.net/data/128x128/2016/01/24/708382_people_512x512.png">
 # 💫 About Me:
-❤ I'm a Data Scientist.<br>🤞 I'm a Python Backend Developer.<br>✔ I'm currently working on my skills.<br>😉 I'm Currently learning more about Machine Learning.<br>🙌 I'm a Django website developer.<br>😜Fun fact: I love automating boring stuff with python.<br>📨Reach me by Email: petremosh85@gmail.com
+❤ I'm a AI/ML Data Scientist.<br>🤞 I'm a Software Engineer.<br>✔Favourite Languages: Python, JavaScript, SQL, R <br>🤞 I'm currently working on my skills.<br>😉 I'm Currently learning more about Machine Learning.<br>😜Fun fact: I love automating boring stuff with python.<br>📨Reach me by Email: petremosh85@gmail.com
 
 
 ## 🌐 Socials:
