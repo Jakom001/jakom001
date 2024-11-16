@@ -2,7 +2,7 @@
 # <h1 align="center">Hi, I'm [Andrew Peter](https://andrewpeter99portfolio.netlify.app/)👋</h1>
 <img align="right" alt="coding" width="230" height="250" src="https://www.shareicon.net/data/128x128/2016/01/24/708382_people_512x512.png">
 # 💫 About Me:
-❤ I'm a Full-Stack Developer.<br>✔Favourite Languages: JavaScript, SQL, HTML, CSS, React<br>🤞 I'm currently working on my skills.<br>😉 I'm Currently learning more about Artificial Inteligence.<br>😜Fun fact: I love automating boring stuff.<br>📨Reach me by Email: petremosh85@gmail.com
+❤ I'm a Full-Stack Developer.<br>✔Favourite Languages: JavaScript, SQL, HTML, CSS, React.js, Node.js, Typescript, Python<br>🤞 I'm currently working on my skills.<br>😉 I'm Currently learning more about Artificial Inteligence.<br>😜Fun fact: I love automating boring stuff.<br>📨Reach me by Email: petremosh85@gmail.com
 
 
 ## 🌐 Socials:
